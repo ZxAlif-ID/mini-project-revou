@@ -11,6 +11,6 @@ submit.addEventListener('click', ()=> {
     } else if(email.value.indexOf('@gmail.com') == -1){
         alert('Enter the correct Email format')
     } else {
-        alert('Your data has succesfully saved and sent')
+        alert('Your data has succesfully saved and send')
     }
 })
